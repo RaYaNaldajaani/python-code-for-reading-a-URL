@@ -1,7 +1,7 @@
 >>>import urllib.request
 >>> import urllib.parse
 >>> 
->>> #x = urllib.request.urlopen('https://en.wikipedia.org/wiki/Al_Hilal_SFC')
+>>> #x = urllib.request.urlopen('https://en.wikipedia.org')
 >>> #print(x.read())
 >>> 
 >>> url = 'http://pythonprogramming.net'
